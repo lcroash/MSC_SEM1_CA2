@@ -1,0 +1,124 @@
+,0
+label,New Dwelling Completions
+source,"Central Statistics Office, Ireland"
+updated,2023-04-26T11:00:00Z
+value,"[1156, 447, 272, 1875, 1194, 380, 217, 1791, 1197, 305, 185, 1687, 1267, 226, 148, 1641, 797, 211, 123, 1131, 847, 194, 76, 1117, 868, 244, 93, 1205, 989, 315, 154, 1458, 638, 174, 77, 889, 721, 281, 144, 1146, 727, 267, 39, 1033, 861, 433, 213, 1507, 625, 309, 160, 1094, 712, 365, 241, 1318, 728, 506, 170, 1404, 910, 615, 177, 1702, 659, 606, 106, 1371, 735, 674, 161, 1570, 879, 899, 255, 2033, 979, 1115, 151, 2245, 693, 932, 333, 1958, 879, 1253, 252, 2384, 972, 1224, 283, 2479, 1076, 1643, 281, 3000, 871, 1415, 472, 2758, 1024, 1776, 445, 3245, 1119, 2002, 622, 3743, 1223, 2687, 640, 4550, 964, 2010, 475, 3449, 1149, 2754, 473, 4376, 1207, 2832, 584, 4623, 1351, 3362, 711, 5424, 1089, 2564, 589, 4242, 1328, 2832, 661, 4821, 1272, 3317, 1054, 5643, 1416, 3824, 1180, 6420, 1107, 2841, 1003, 4951, 878, 1841, 524, 3243, 1462, 2870, 715, 5047, 1530, 4136, 1667, 7333, 977, 2260, 730, 3967, 1161, 2542, 1279, 4982, 1206, 2476, 965, 4647, 1394, 3411, 2152, 6957, 1111, 2808, 1721, 5640, 1343, 3944, 2350, 7637, 1531, 3576, 2295, 7402, 1530, 4832, 2781, 9143, 1197, 3092, 2427, 6716, 1382, 489, 332, 2203, 1253, 441, 207, 1901, 1184, 302, 197, 1683, 1057, 186, 124, 1368, 953, 234, 148, 1335, 886, 222, 73, 1181, 859, 241, 98, 1198, 830, 261, 130, 1220, 759, 216, 91, 1066, 751, 286, 142, 1178, 719, 265, 40, 1024, 730, 359, 183, 1271, 736, 337, 187, 1259, 739, 419, 242, 1400, 717, 503, 170, 1389, 784, 511, 156, 1451, 765, 707, 123, 1595, 761, 719, 164, 1644, 861, 896, 246, 2004, 857, 926, 136, 1919, 797, 1163, 384, 2344, 905, 1248, 259, 2411, 948, 1224, 263, 2436, 955, 1362, 260, 2577, 1001, 1553, 541, 3095, 1042, 2013, 461, 3516, 1090, 1998, 577, 3665, 1095, 2222, 589, 3906, 1113, 2547, 538, 4198, 1153, 2722, 497, 4372, 1179, 2818, 559, 4557, 1215, 2769, 629, 4613, 1263, 2904, 657, 4823, 1319, 3166, 708, 5193, 1249, 3299, 1065, 5612, 1273, 3125, 991, 5389, 1288, 3277, 1109, 5674, 868, 2048, 567, 3482, 1441, 2859, 757, 5057, 1373, 3351, 1350, 6074, 1138, 2868, 809, 4815, 1146, 2599, 1377, 5123, 1190, 2465, 1055, 4711, 1249, 2748, 1710, 5707, 1295, 3335, 1916, 6545, 1326, 4351, 2509, 8185, 1511, 3559, 2561, 7631, 1372, 3881, 2189, 7442, 1395, 3701, 2713, 7809]"
+dimension.STATISTIC.label,STATISTIC
+dimension.STATISTIC.category.index.NDQ01,0
+dimension.STATISTIC.category.index.NDQ01C02,1
+dimension.STATISTIC.category.label.NDQ01,New Dwelling Completions
+dimension.STATISTIC.category.label.NDQ01C02,Seasonally Adjusted New Dwelling Completions
+dimension.STATISTIC.category.unit.NDQ01.base,Number
+dimension.STATISTIC.category.unit.NDQ01C02.base,Number
+dimension.TLIST(Q1).label,Quarter
+dimension.TLIST(Q1).category.index.20111,0
+dimension.TLIST(Q1).category.index.20112,1
+dimension.TLIST(Q1).category.index.20113,2
+dimension.TLIST(Q1).category.index.20114,3
+dimension.TLIST(Q1).category.index.20121,4
+dimension.TLIST(Q1).category.index.20122,5
+dimension.TLIST(Q1).category.index.20123,6
+dimension.TLIST(Q1).category.index.20124,7
+dimension.TLIST(Q1).category.index.20131,8
+dimension.TLIST(Q1).category.index.20132,9
+dimension.TLIST(Q1).category.index.20133,10
+dimension.TLIST(Q1).category.index.20134,11
+dimension.TLIST(Q1).category.index.20141,12
+dimension.TLIST(Q1).category.index.20142,13
+dimension.TLIST(Q1).category.index.20143,14
+dimension.TLIST(Q1).category.index.20144,15
+dimension.TLIST(Q1).category.index.20151,16
+dimension.TLIST(Q1).category.index.20152,17
+dimension.TLIST(Q1).category.index.20153,18
+dimension.TLIST(Q1).category.index.20154,19
+dimension.TLIST(Q1).category.index.20161,20
+dimension.TLIST(Q1).category.index.20162,21
+dimension.TLIST(Q1).category.index.20163,22
+dimension.TLIST(Q1).category.index.20164,23
+dimension.TLIST(Q1).category.index.20171,24
+dimension.TLIST(Q1).category.index.20172,25
+dimension.TLIST(Q1).category.index.20173,26
+dimension.TLIST(Q1).category.index.20174,27
+dimension.TLIST(Q1).category.index.20181,28
+dimension.TLIST(Q1).category.index.20182,29
+dimension.TLIST(Q1).category.index.20183,30
+dimension.TLIST(Q1).category.index.20184,31
+dimension.TLIST(Q1).category.index.20191,32
+dimension.TLIST(Q1).category.index.20192,33
+dimension.TLIST(Q1).category.index.20193,34
+dimension.TLIST(Q1).category.index.20194,35
+dimension.TLIST(Q1).category.index.20201,36
+dimension.TLIST(Q1).category.index.20202,37
+dimension.TLIST(Q1).category.index.20203,38
+dimension.TLIST(Q1).category.index.20204,39
+dimension.TLIST(Q1).category.index.20211,40
+dimension.TLIST(Q1).category.index.20212,41
+dimension.TLIST(Q1).category.index.20213,42
+dimension.TLIST(Q1).category.index.20214,43
+dimension.TLIST(Q1).category.index.20221,44
+dimension.TLIST(Q1).category.index.20222,45
+dimension.TLIST(Q1).category.index.20223,46
+dimension.TLIST(Q1).category.index.20224,47
+dimension.TLIST(Q1).category.index.20231,48
+dimension.TLIST(Q1).category.label.20111,2011Q1
+dimension.TLIST(Q1).category.label.20112,2011Q2
+dimension.TLIST(Q1).category.label.20113,2011Q3
+dimension.TLIST(Q1).category.label.20114,2011Q4
+dimension.TLIST(Q1).category.label.20121,2012Q1
+dimension.TLIST(Q1).category.label.20122,2012Q2
+dimension.TLIST(Q1).category.label.20123,2012Q3
+dimension.TLIST(Q1).category.label.20124,2012Q4
+dimension.TLIST(Q1).category.label.20131,2013Q1
+dimension.TLIST(Q1).category.label.20132,2013Q2
+dimension.TLIST(Q1).category.label.20133,2013Q3
+dimension.TLIST(Q1).category.label.20134,2013Q4
+dimension.TLIST(Q1).category.label.20141,2014Q1
+dimension.TLIST(Q1).category.label.20142,2014Q2
+dimension.TLIST(Q1).category.label.20143,2014Q3
+dimension.TLIST(Q1).category.label.20144,2014Q4
+dimension.TLIST(Q1).category.label.20151,2015Q1
+dimension.TLIST(Q1).category.label.20152,2015Q2
+dimension.TLIST(Q1).category.label.20153,2015Q3
+dimension.TLIST(Q1).category.label.20154,2015Q4
+dimension.TLIST(Q1).category.label.20161,2016Q1
+dimension.TLIST(Q1).category.label.20162,2016Q2
+dimension.TLIST(Q1).category.label.20163,2016Q3
+dimension.TLIST(Q1).category.label.20164,2016Q4
+dimension.TLIST(Q1).category.label.20171,2017Q1
+dimension.TLIST(Q1).category.label.20172,2017Q2
+dimension.TLIST(Q1).category.label.20173,2017Q3
+dimension.TLIST(Q1).category.label.20174,2017Q4
+dimension.TLIST(Q1).category.label.20181,2018Q1
+dimension.TLIST(Q1).category.label.20182,2018Q2
+dimension.TLIST(Q1).category.label.20183,2018Q3
+dimension.TLIST(Q1).category.label.20184,2018Q4
+dimension.TLIST(Q1).category.label.20191,2019Q1
+dimension.TLIST(Q1).category.label.20192,2019Q2
+dimension.TLIST(Q1).category.label.20193,2019Q3
+dimension.TLIST(Q1).category.label.20194,2019Q4
+dimension.TLIST(Q1).category.label.20201,2020Q1
+dimension.TLIST(Q1).category.label.20202,2020Q2
+dimension.TLIST(Q1).category.label.20203,2020Q3
+dimension.TLIST(Q1).category.label.20204,2020Q4
+dimension.TLIST(Q1).category.label.20211,2021Q1
+dimension.TLIST(Q1).category.label.20212,2021Q2
+dimension.TLIST(Q1).category.label.20213,2021Q3
+dimension.TLIST(Q1).category.label.20214,2021Q4
+dimension.TLIST(Q1).category.label.20221,2022Q1
+dimension.TLIST(Q1).category.label.20222,2022Q2
+dimension.TLIST(Q1).category.label.20223,2022Q3
+dimension.TLIST(Q1).category.label.20224,2022Q4
+dimension.TLIST(Q1).category.label.20231,2023Q1
+dimension.C02342V02816.label,Type of House
+dimension.C02342V02816.category.index.06,0
+dimension.C02342V02816.category.index.07,1
+dimension.C02342V02816.category.index.08,2
+dimension.C02342V02816.category.index.-,3
+dimension.C02342V02816.category.label.06,Single house
+dimension.C02342V02816.category.label.07,Scheme house
+dimension.C02342V02816.category.label.08,Apartment
+dimension.C02342V02816.category.label.-,All house types
+dimension.role.metric,['STATISTIC']
+dimension.role.time,['TLIST(Q1)']
+dimension.id,"['STATISTIC', 'TLIST(Q1)', 'C02342V02816']"
+dimension.size,"[2, 49, 4]"
